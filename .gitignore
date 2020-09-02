@@ -1,0 +1,8 @@
+# Compiled Object Files
+.o
+# Execute Files
+.out
+# CMake Build Directory
+build/
+# VSC Directory
+.vscode/
